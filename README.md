@@ -1,6 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+# 💫 About Me: 
+🔭 I’m currently working on building full-stack web applications and improving my software engineering skills<br>
+<hr>
+👯 I’m looking to collaborate on open-source projects and web applications on<br>
+<hr>
+🤝 I’m looking for help with writing cleaner, scalable code and becoming a better software engineer<br>
+<hr>
+🌱 I’m currently learning React, Node.js, Express, Tailwind CSS, REST APIs, databases, typescript, and software architecture<br>
+<hr>
+💬 Ask me about JavaScript, React, web development, or the projects I’m building<br>
+<hr>
+⚡ Fun fact: I’m still figuring things out, but somehow the bugs keep teaching me more than the tutorials do.
+<hr>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/qidev_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:esqimeazzanapwi08@gmail.com) 
